@@ -21,7 +21,7 @@ Examples of unacceptable behavior by participants include:
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Conduct which could reasonably be considered inappropriate for the forum in which it occurs. 
 
-All TensorFlow forums and spaces are meant for professional interactions, and any behavior which could reasonably be considered inappropriate in a professional setting is unacceptable.
+All AI Edge forums and spaces are meant for professional interactions, and any behavior which could reasonably be considered inappropriate in a professional setting is unacceptable.
 
 
 ## Our Responsibilities
@@ -33,9 +33,9 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Scope
 
-This Code of Conduct applies to all content on tensorflow.org, TensorFlow’s GitHub organization, or any other official TensorFlow web presence allowing for community interactions, as well as at all official TensorFlow events, whether offline or online.
+This Code of Conduct applies to all content on AI Edge’s GitHub organization, or any other official AI Edge web presence allowing for community interactions, as well as at all official AI Edge events, whether offline or online.
 
-The Code of Conduct also applies within project spaces and in public spaces whenever an individual is representing TensorFlow or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed or de facto representative at an online or offline event. 
+The Code of Conduct also applies within project spaces and in public spaces whenever an individual is representing AI Edge or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed or de facto representative at an online or offline event. 
 
 
 ## Conflict Resolution
